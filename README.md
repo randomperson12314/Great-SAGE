@@ -37,16 +37,15 @@ Due to time constraints and upcoming academic commitments, I’m now open-sourci
 
 ## 🔧 Core Features
 
-* 🗣️ Wake word detection + offline speech recognition (Vosk, Porcupine)
-* 🧠 Local LLM integration via `llama.cpp` or `ollama`
+* 🗣️ Wake word detection + offline speech recognition
+* 🧠 Local LLM integration 
 * 📂 Voice-driven file/app control: open, move, delete, organize
 * 📅 Set reminders and execute daily utilities (WhatsApp, weather, news)
 * 🎨 Generate images using Stable Diffusion from voice prompts
-* 📁 Auto-sort photos via facial recognition (InsightFace)
-* 🔄 Media tools: PDF ↔ Word, video to MP3 (ffmpeg)
+* 📁 Auto-sort photos via facial recognition 
+* 🔄 Media Conversion tools
 * 🔐 Face + password login system
-* 📱 Android sync with KDE Connect/Scrcpy
-* 🎭 Assistant modes: calm, minimal, energetic
+* 📱 Android sync
 
 ---
 
