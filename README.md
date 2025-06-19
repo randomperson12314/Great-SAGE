@@ -14,7 +14,7 @@ Great SAGE is a fully functional AI desktop assistant designed to run **entirely
 
 ## 👤 Who Built It?
 
-> 🛠️ **Created solo by Aayan (`Python21`)**
+> 🛠️ **Created solo by Aayan **
 > I built this during my high school exam break — designing, coding, integrating, and debugging it from the ground up.
 
 Due to time constraints and upcoming academic commitments, I’m now open-sourcing it to the community in hopes that others can:
@@ -77,7 +77,7 @@ Looking for collaborators who can:
 ## 📦 Download the Full Project (13+ GB)
 
 Due to GitHub file size limits, the full codebase is hosted externally:
-📥 [will be out soon]
+📥 (https://archive.org/details/great-sage-mach-1)
 
 ---
 
