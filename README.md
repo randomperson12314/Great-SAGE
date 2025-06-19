@@ -78,7 +78,7 @@ Looking for collaborators who can:
 ## 📦 Download the Full Project (13+ GB)
 
 Due to GitHub file size limits, the full codebase is hosted externally:
-📥 [**Download from Internet Archive**](#) ← *(insert your actual link here)*
+📥 [will be out soon]
 
 ---
 
