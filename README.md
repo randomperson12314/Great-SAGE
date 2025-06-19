@@ -96,5 +96,3 @@ Due to GitHub file size limits, the full codebase is hosted externally:
 MIT — Open-source and free to build upon.
 
 ---
-
-Want a version with contributor badges, demo images, or Hugging Face Space badge integration next?
